@@ -1,0 +1,6 @@
+[book]
+authors = ["higorless"]
+language = "pt"
+multilingual = false
+src = "src"
+title = "HaHa-documentation"
